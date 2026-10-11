@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>hermes-okna-na-zakaz</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Окна ПВХ на заказ от производителя, Балашиха</Title>
+    <Description><![CDATA[Пластиковые окна ПВХ под ваши размеры от производителя — Балашиха, мкр. Железнодорожный.
+
+Изготавливаем:
+• глухие, поворотные и поворотно-откидные окна;
+• одно-, двух- и трёхстворчатые окна;
+• окна для квартиры, частного дома, дачи.
+
+На фото — наши реальные изделия: окна на производстве и готовые окна на объектах.
+
+Как заказать:
+1. Напишите в сообщения размеры проёма (ширина × высота) и сколько нужно створок — или просто пришлите фото окна.
+2. Рассчитаем стоимость и согласуем комплектацию.
+3. Изготовим окно под ваш заказ.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размера и комплектации.
+
+Пишите или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
+    <Images>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_7.jpg"/>
+    </Images>
+    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>hermes-osteklenie-balkona</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Балконы</GoodsSubType>
+    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Остекление балкона и лоджии окнами ПВХ</Title>
+    <Description><![CDATA[Остекление балконов и лоджий пластиковыми окнами ПВХ под ваши размеры — Балашиха, мкр. Железнодорожный.
+
+• остекление балкона или лоджии окнами ПВХ;
+• конструкции изготавливаем под размеры вашего проёма;
+• подходит для квартир в панельных, кирпичных и монолитных домах.
+
+На фото — наши реальные балконы и лоджии.
+
+Как заказать:
+1. Пришлите в сообщения фото балкона снаружи и изнутри и примерные размеры.
+2. Рассчитаем стоимость и согласуем вариант остекления.
+3. Изготовим конструкцию под ваш заказ.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размеров и комплектации.
+
+Пишите или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
+    <Images>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_7.jpg"/>
+    </Images>
+    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>hermes-balkonnyi-blok</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Балконный блок ПВХ: дверь и окно на заказ</Title>
+    <Description><![CDATA[Балконный блок ПВХ — дверь и окно под размер вашего проёма. Балашиха, мкр. Железнодорожный.
+
+• балконная дверь с окном в одном блоке;
+• изготавливаем под ваши размеры;
+• варианты открывания согласуем при расчёте.
+
+На фото — наши реальные балконные блоки на объектах.
+
+Как заказать:
+1. Напишите в сообщения размеры проёма или пришлите фото.
+2. Рассчитаем стоимость и согласуем комплектацию.
+3. Изготовим блок под ваш заказ.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размера и комплектации.
+
+Пишите или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
+    <Images>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_7.jpg"/>
+    </Images>
+    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
+  </Ad>
+</Ads>
