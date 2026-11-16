@@ -10,9 +10,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Зелёный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Жилет мужской утеплённый, зелёный</Title>
@@ -46,9 +46,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Зелёный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Жилет мужской зелёный, утеплённый</Title>
@@ -82,9 +82,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Зелёный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Жилет мужской утеплённый зелёный</Title>
@@ -118,9 +118,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний с капюшоном, чёрный</Title>
@@ -154,9 +154,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Бежевый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний с капюшоном, бежевый</Title>
@@ -190,9 +190,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Бежевый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской бежевый с капюшоном, зимний</Title>
@@ -226,9 +226,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Бежевый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской с капюшоном, бежевый</Title>
@@ -262,9 +262,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Бежевый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской бежевый, зимний, с капюшоном</Title>
@@ -292,15 +292,14 @@
     <Id>muzh-009</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Свитер</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Зелёный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Свитер мужской тёплый, зелёный</Title>
@@ -334,9 +333,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Синий</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Куртка мужской с капюшоном, тёмно-синий</Title>
@@ -370,9 +369,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный с капюшоном, зимний</Title>
@@ -406,9 +405,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской с капюшоном, чёрный</Title>
@@ -442,9 +441,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний, чёрный</Title>
@@ -478,9 +477,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний с капюшоном, серый</Title>
@@ -514,9 +513,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Зелёный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний, зелёный</Title>
@@ -550,9 +549,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный, зимний, с капюшоном</Title>
@@ -586,9 +585,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Коричневый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний с капюшоном, коричневый</Title>
@@ -622,9 +621,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской серый с капюшоном, зимний</Title>
@@ -658,9 +657,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской с капюшоном, серый</Title>
@@ -694,9 +693,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской серый, зимний, с капюшоном</Title>
@@ -730,9 +729,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Бежевый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний бежевый с капюшоном</Title>
@@ -766,9 +765,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний чёрный с капюшоном</Title>
@@ -802,9 +801,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний чёрный, длина средняя</Title>
@@ -838,9 +837,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный средняя, зимний</Title>
@@ -874,9 +873,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний чёрный, длина короткая</Title>
@@ -910,9 +909,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Коричневый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской коричневый с капюшоном, зимний</Title>
@@ -946,9 +945,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный, р. 46-50-52-54-56</Title>
@@ -982,9 +981,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний серый с капюшоном</Title>
@@ -1018,9 +1017,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный короткая, зимний</Title>
@@ -1054,9 +1053,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Синий</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний с капюшоном, тёмно-синий</Title>
@@ -1090,9 +1089,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Синий</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской тёмно-синий с капюшоном, зимний</Title>
@@ -1126,9 +1125,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний серый, длина короткая</Title>
@@ -1162,9 +1161,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный, р. 46-50-52-54</Title>
@@ -1198,9 +1197,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской зимний чёрный, р. 46-50-52-54-56</Title>
@@ -1234,9 +1233,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Пуховик мужской чёрный, зимний</Title>
@@ -1270,9 +1269,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4650</Price>
     <Title>Пуховик мужской зимний чёрный</Title>
@@ -1306,9 +1305,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4650</Price>
     <Title>Пуховик мужской зимний чёрный, р. 46-50-52-54</Title>
@@ -1342,9 +1341,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4650</Price>
     <Title>Пуховик мужской чёрный 46-50-52-54</Title>
@@ -1378,9 +1377,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4790</Price>
     <Title>Пуховик мужской зимний чёрный 46-50-52-54</Title>
@@ -1414,9 +1413,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4790</Price>
     <Title>Пуховик мужской чёрный 46-50-52-54-56</Title>
@@ -1450,9 +1449,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4960</Price>
     <Title>Пуховик мужской чёрный, р. 50-52-54-56</Title>
@@ -1486,9 +1485,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>5410</Price>
     <Title>Пуховик мужской зимний чёрный 46-50-52-54-56</Title>
@@ -1522,9 +1521,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>5410</Price>
     <Title>Пуховик мужской чёрный, зимний, без капюшона</Title>
@@ -1558,9 +1557,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>7130</Price>
     <Title>Пуховик мужской зимний серый, длина средняя</Title>
@@ -1588,15 +1587,14 @@
     <Id>muzh-045</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Свитер</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Свитер мужской тёплый, чёрный</Title>
@@ -1624,15 +1622,14 @@
     <Id>muzh-046</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Толстовка</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Толстовка мужской тёплая с капюшоном, чёрный</Title>
@@ -1660,15 +1657,14 @@
     <Id>muzh-047</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Свитер</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Свитер мужской тёплый с капюшоном, чёрный</Title>
@@ -1696,15 +1692,14 @@
     <Id>muzh-048</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Толстовка</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Толстовка мужской чёрный с капюшоном, тёплая</Title>
@@ -1738,9 +1733,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>50 (L)</Size>
     <Color>Чёрный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Куртка мужской демисезонная с капюшоном, чёрный</Title>
@@ -1768,15 +1763,14 @@
     <Id>muzh-050</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Свитер</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Синий</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Свитер мужской тёплый, синий</Title>
@@ -1810,9 +1804,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской демисезонный с капюшоном, чёрный</Title>
@@ -1846,9 +1840,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской чёрный с капюшоном, демисезонный</Title>
@@ -1876,15 +1870,14 @@
     <Id>muzh-053</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Толстовка</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Толстовка мужской с капюшоном, чёрный</Title>
@@ -1918,9 +1911,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской демисезонный с капюшоном, серый</Title>
@@ -1954,9 +1947,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской с капюшоном, чёрный</Title>
@@ -1990,9 +1983,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Серый</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской серый с капюшоном, демисезонный</Title>
@@ -2020,15 +2013,14 @@
     <Id>muzh-057</Id>
     <Category>Одежда, обувь, аксессуары</Category>
     <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <GoodsSubType>Свитер</GoodsSubType>
+    <Apparel>Кофты и футболки</Apparel>
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Красный</Color>
-    <Season>Зима</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Зима</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Свитер мужской тёплый, красный</Title>
@@ -2062,9 +2054,9 @@
     <AdType>Товар от производителя</AdType>
     <Size>52 (L/XL)</Size>
     <Color>Чёрный</Color>
-    <Season>Демисезон</Season>
     <Brand>Без бренда</Brand>
     <Condition>Новое с биркой</Condition>
+    <Season>Демисезон</Season>
     <Availability>В наличии</Availability>
     <Price>4540</Price>
     <Title>Бомбер мужской демисезонный, чёрный</Title>
