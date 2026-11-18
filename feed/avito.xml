@@ -1,2083 +1,525 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>muzh-001</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Жилеты</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Жилеты</ApparelType>
+    <Id>hermes-okna-na-zakaz</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Зелёный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Жилет мужской утеплённый, зелёный</Title>
-    <Description>Жилет мужской, цвет зелёный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52 (S-M-L).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134060.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Окна ПВХ от производителя | от 3500, Балашиха</Title>
+    <Description><![CDATA[Пластиковые окна ПВХ под ваши размеры от производителя — Балашиха, мкр. Железнодорожный.
+
+• глухие, поворотные и поворотно-откидные окна;
+• одно-, двух- и трёхстворчатые окна;
+• окна для квартиры, частного дома, дачи.
+
+На фото — наши реальные изделия: окна на производстве и готовые окна на объектах.
+
+Условия:
+• опыт работы — 15 лет, собственное производство окон;
+• замер и доставка по Балашихе и мкр. Железнодорожный — бесплатно;
+• срок изготовления — 7–10 дней, зависит от объёма и количества изделий;
+• монтаж и демонтаж выполняют наши монтажники — стоимость по договорённости;
+• Москва и другие города МО — замер, доставка и монтаж по договорённости.
+
+Как заказать:
+1. Напишите размеры проёма (ширина × высота) и количество створок — или пришлите фото окна.
+2. Бесплатно приедем на замер (Балашиха, Железнодорожный) и рассчитаем стоимость.
+3. Изготовим за 7–10 дней и бесплатно доставим.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размеров и комплектации.
+
+Пишите в сообщения или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/001/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_7.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-002</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Жилеты</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Жилеты</ApparelType>
+    <Id>hermes-osteklenie-balkona</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Балконы</GoodsSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Зелёный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Жилет мужской зелёный, утеплённый</Title>
-    <Description>Жилет мужской, цвет зелёный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52 (S-M-L).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134063.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Остекление балконов и лоджий ПВХ | от 3500</Title>
+    <Description><![CDATA[Остекление балконов и лоджий пластиковыми окнами ПВХ под ваши размеры — Балашиха, мкр. Железнодорожный.
+
+• остекление балкона или лоджии окнами ПВХ;
+• конструкции изготавливаем под размеры вашего проёма;
+• для квартир в панельных, кирпичных и монолитных домах.
+
+На фото — наши реальные балконы и лоджии.
+
+Условия:
+• опыт работы — 15 лет, собственное производство окон;
+• замер и доставка по Балашихе и мкр. Железнодорожный — бесплатно;
+• срок изготовления — 7–10 дней, зависит от объёма и количества изделий;
+• монтаж и демонтаж выполняют наши монтажники — стоимость по договорённости;
+• Москва и другие города МО — замер, доставка и монтаж по договорённости.
+
+Как заказать:
+1. Пришлите фото балкона снаружи и изнутри и примерные размеры.
+2. Бесплатно приедем на замер (Балашиха, Железнодорожный) и рассчитаем стоимость.
+3. Изготовим за 7–10 дней и бесплатно доставим.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размеров и комплектации.
+
+Пишите в сообщения или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/002/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_7.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-003</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Жилеты</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Жилеты</ApparelType>
+    <Id>hermes-balkonnyi-blok</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Зелёный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Жилет мужской утеплённый зелёный</Title>
-    <Description>Жилет мужской, цвет зелёный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52 (S-M-L).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134040.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Балконный блок ПВХ с дверью | От производителя</Title>
+    <Description><![CDATA[Балконный блок ПВХ — дверь с окном под размер вашего проёма. Балашиха, мкр. Железнодорожный.
+
+✓ Балконная дверь + окно в одном блоке
+✓ Изготовление под точные размеры проёма
+✓ Поворотная и поворотно-откидная дверь
+✓ Варианты открывания согласуем при расчёте
+
+💰 Цена от 3 500 ₽ — стартовая, зависит от размеров и комплектации
+
+Почему мы:
+• Опыт 15 лет, собственное производство окон
+• Замер и доставка по Балашихе/Железнодорожному — бесплатно
+• Срок изготовления 7–10 дней
+• Монтаж — по договорённости
+• Гарантия 5 лет
+
+📍 Балашиха, мкр. Железнодорожный. Москва и МО — по договорённости
+
+📞 Пришлите размеры проёма (ширина × высота) — рассчитаем стоимость!]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/003/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_6.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_7.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-004</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <Id>hermes-okna-dom-dacha</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний с капюшоном, чёрный</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134057.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Окна для дома и дачи от производителя | от 1800</Title>
+    <Description><![CDATA[Пластиковые окна для частного дома, дачи и коттеджа — изготовление под ваши проёмы. Балашиха, Железнодорожный.
+
+✓ Окна любых размеров — от небольших для бани до больших в гостиную
+✓ Глухие, поворотные и поворотно-откидные створки
+✓ Можно заказать комплект на весь дом — посчитаем со скидкой
+
+💰 Цена от 1 800 ₽ — стартовая, зависит от размеров и количества
+
+Почему мы:
+• Опыт 15 лет, собственное производство окон
+• Замер и доставка по Балашихе/Железнодорожному — бесплатно
+• Срок изготовления 7–10 дней
+• Монтаж — по договорённости
+• Гарантия 5 лет
+
+📍 Балашиха, мкр. Железнодорожный. Москва и МО — по договорённости
+
+📞 Пришлите список проёмов — посчитаем комплект со скидкой!]]></Description>
+    <Price>1800</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/004/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_6.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-005</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <Id>hermes-okna-vitrazh</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Бежевый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний с капюшоном, бежевый</Title>
-    <Description>Пуховик мужской, цвет бежевый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134067.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Окна с витражным стеклом | Декоративное остекление</Title>
+    <Description><![CDATA[Окна и двери ПВХ с витражным (декоративным) стеклом — для дома, лоджии, входной группы.
+
+• декоративное стекло в окнах и дверях ПВХ;
+• подходит для частного дома, балкона, лоджии, тамбура;
+• размер и рисунок согласуем при расчёте.
+
+На фото — наши реальные изделия с витражным стеклом.
+
+Условия:
+• опыт работы — 15 лет, собственное производство окон;
+• замер и доставка по Балашихе и мкр. Железнодорожный — бесплатно;
+• срок изготовления — 7–10 дней, зависит от объёма и количества изделий;
+• монтаж и демонтаж выполняют наши монтажники — стоимость по договорённости;
+• Москва и другие города МО — замер, доставка и монтаж по договорённости.
+
+Как заказать:
+1. Напишите размеры проёма (ширина × высота) и количество створок — или пришлите фото окна.
+2. Бесплатно приедем на замер (Балашиха, Железнодорожный) и рассчитаем стоимость.
+3. Изготовим за 7–10 дней и бесплатно доставим.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размеров и комплектации.
+
+Пишите в сообщения или звоните — ответим и посчитаем.]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/005/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_5.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-006</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <Id>hermes-okna-panorama</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Бежевый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской бежевый с капюшоном, зимний</Title>
-    <Description>Пуховик мужской, цвет бежевый.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134086.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Панорамные окна ПВХ | Большие проёмы, от 3500</Title>
+    <Description><![CDATA[Панорамные и большие окна ПВХ — на всю стену, в лоджию, в гостиную частного дома. Балашиха, Железнодорожный.
+
+✓ Окна от пола до потолка, французские окна
+✓ Большие многостворчатые конструкции
+✓ Комбинация глухих и открывающихся створок
+✓ Для квартир, лоджий, частных домов
+
+💰 Цена от 3 500 ₽ — стартовая, зависит от размера и количества створок
+
+Почему мы:
+• Опыт 15 лет, собственное производство окон
+• Замер и доставка по Балашихе/Железнодорожному — бесплатно
+• Срок изготовления 7–10 дней
+• Гарантия 5 лет
+
+📍 Балашиха, мкр. Железнодорожный. Москва и МО — по договорённости
+
+📞 Пришлите размеры — посчитаем панорамное окно!]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/006/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_5.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-007</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <Id>hermes-okna-zheleznodorozhny</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Бежевый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской с капюшоном, бежевый</Title>
-    <Description>Пуховик мужской, цвет бежевый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 50-52-54-56 (M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134047.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Окна ПВХ от производителя | Бесплатный замер</Title>
+    <Description><![CDATA[Пластиковые окна ПВХ от производителя — Балашиха, мкр. Железнодорожный. Работаем рядом, приедем быстро!
+
+✓ Изготовление под ваш проём за 7–10 дней
+✓ Одно-, двух- и трёхстворчатые окна
+✓ Глухие и поворотно-откидные створки
+✓ Бесплатный замер и доставка по Балашихе и Железнодорожному
+
+💰 Цена от 1 800 ₽ — стартовая, зависит от размеров и комплектации
+
+Почему мы:
+• Опыт 15 лет, собственное производство окон
+• Замер и доставка по Балашихе/Железнодорожному — бесплатно
+• Срок изготовления 7–10 дней
+• Монтаж выполняют наши монтажники — стоимость по договорённости
+• Гарантия 5 лет
+
+📍 Балашиха, мкр. Железнодорожный. Москва и другие города МО — по договорённости
+
+📞 Напишите размеры проёма или фото окна — посчитаем за 10 минут!]]></Description>
+    <Price>1800</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/007/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_6.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-008</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
+    <Id>hermes-okna-arochnye</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Бежевый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской бежевый, зимний, с капюшоном</Title>
-    <Description>Пуховик мужской, цвет бежевый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134048.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Арочные окна ПВХ на заказ | Нестандартные формы</Title>
+    <Description><![CDATA[Арочные и нестандартные окна ПВХ — изготовление по вашим размерам. Балашиха, Железнодорожный.
+
+✓ Арочные окна (полуциркульные, лучковые)
+✓ Трапециевидные и скошенные — для мансард
+✓ Круглые, треугольные и другие формы по эскизу
+✓ Работаем по шаблону или замеру
+
+💰 Цена от 3 500 ₽ — стартовая, зависит от формы и размера
+
+Почему мы:
+• Опыт 15 лет, собственное производство окон
+• Замер и доставка по Балашихе/Железнодорожному — бесплатно
+• Срок изготовления 7–10 дней
+• Гарантия 5 лет
+
+📍 Балашиха, мкр. Железнодорожный. Москва и МО — по договорённости
+
+📞 Пришлите фото проёма или эскиз — рассчитаем!]]></Description>
+    <Price>3500</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/008/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_6.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-009</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Свитер</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
+    <Id>hermes-alyuminievye-okna</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Алюминий</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Раздвижное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Зелёный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Свитер мужской тёплый, зелёный</Title>
-    <Description>Свитер мужской, цвет зелёный.
-Модель без капюшона. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134579.</Description>
+    <Availability>Под заказ</Availability>
+    <Condition>Новое</Condition>
+    <TargetAudience>Частные лица и бизнес</TargetAudience>
+    <Title>Алюминиевые окна и раздвижные системы | от 3000</Title>
+    <Description><![CDATA[Алюминиевые окна и раздвижное остекление под ваши размеры — Балашиха, мкр. Железнодорожный.
+
+• алюминиевые окна для квартиры, дома, лоджии;
+• раздвижные алюминиевые системы для балконов и лоджий;
+• панорамные конструкции в алюминиевом профиле.
+
+Изображения в объявлении — примеры конструкций. Фото наших готовых алюминиевых изделий пришлём в сообщениях.
+
+Условия:
+• опыт работы — 15 лет, собственное производство;
+• замер и доставка по Балашихе и мкр. Железнодорожный — бесплатно;
+• срок изготовления — 7–10 дней, зависит от объёма и количества изделий;
+• монтаж и демонтаж выполняют наши монтажники — стоимость по договорённости;
+• Москва и другие города МО — по договорённости.
+
+Как заказать:
+1. Напишите размеры проёма и что нужно остеклить — или пришлите фото.
+2. Бесплатно приедем на замер и рассчитаем стоимость.
+3. Изготовим за 7–10 дней и бесплатно доставим.
+
+Цена в объявлении — стартовая. Итоговая стоимость зависит от размеров и комплектации.]]></Description>
+    <Price>3000</Price>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/009/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_3.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
   </Ad>
   <Ad>
-    <Id>muzh-010</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Синий</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Куртка мужской с капюшоном, тёмно-синий</Title>
-    <Description>Куртка мужской, цвет тёмно-синий.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134370.</Description>
+    <Id>hermes-remont-okon</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и отделка</ServiceType>
+    <ServiceSubtype>Окна и балконы</ServiceSubtype>
+    <Specialty>Ремонт, тонировка окон, оконная фурнитура</Specialty>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <Title>Ремонт окон ПВХ | Замена фурнитуры и регулировка</Title>
+    <Description><![CDATA[Ремонт и обслуживание пластиковых окон в Балашихе и мкр. Железнодорожный. Мы сами производим окна — знаем их устройство изнутри.
+
+🔧 Что делаем:
+• Регулировка створок — дует, плохо закрывается, провисла створка
+• Замена фурнитуры: ручки, петли, механизмы
+• Замена уплотнителя (резины)
+• Ремонт балконных дверей
+• Замена стеклопакета
+
+💰 Стоимость — по договорённости, после осмотра или по фото. Цена зависит от объёма работ.
+
+Почему мы:
+• Опыт 15 лет, бригада 2–3 мастера
+• Гарантия на работы — 5 лет
+• Мы производим окна — знаем конструкцию до мелочей
+• Выезд по Балашихе и Железнодорожному
+
+📍 Балашиха, мкр. Железнодорожный. Москва и другие города МО — по договорённости
+
+📞 Напишите, что случилось с окном + фото — подскажем стоимость за 10 минут!]]></Description>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/010/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_6.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
+    <TypesOfWindows>
+      <Option>Пластиковые</Option>
+      <Option>Алюминиевые</Option>
+    </TypesOfWindows>
+    <ObjectForWork>
+      <Option>Квартира</Option>
+      <Option>Частный дом</Option>
+    </ObjectForWork>
   </Ad>
   <Ad>
-    <Id>muzh-011</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный с капюшоном, зимний</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133924.</Description>
+    <Id>hermes-ustanovka-okon</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Ремонт и отделка</ServiceType>
+    <ServiceSubtype>Окна и балконы</ServiceSubtype>
+    <Specialty>Установка окон</Specialty>
+    <WorkExperience>10 лет и больше</WorkExperience>
+    <TeamSize>
+      <Option>2-4 человека</Option>
+    </TeamSize>
+    <Guarantee>Есть</Guarantee>
+    <MaterialPurchase>Возможна</MaterialPurchase>
+    <Title>Установка окон ПВХ | Демонтаж, монтаж, от 2500</Title>
+    <Description><![CDATA[Установка и замена пластиковых окон, балконных дверей и блоков — Балашиха, мкр. Железнодорожный. Монтаж выполняют наши штатные монтажники, окна — собственного производства.
+
+🔨 Что делаем:
+• Демонтаж старых окон
+• Установка новых окон ПВХ, балконных дверей и блоков
+• Монтаж обычных, арочных и панорамных окон
+• Квартиры и частные дома
+
+💰 Стоимость работ — по договорённости, после осмотра или по фото.
+
+Почему мы:
+• Опыт 15 лет, бригада 2–3 мастера
+• Гарантия на работы — 5 лет
+• Окна собственного производства
+• Бесплатный замер по Балашихе и Железнодорожному
+
+📍 Балашиха, мкр. Железнодорожный. Москва и МО — по договорённости
+
+📞 Пришлите размеры проёмов или фото — посчитаем стоимость!]]></Description>
     <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/011/10.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_1.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_2.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_3.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_4.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_5.jpg"/>
+      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_6.jpg"/>
     </Images>
     <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-012</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской с капюшоном, чёрный</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134163.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/012/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-013</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний, чёрный</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Модель без капюшона. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134111.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/013/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-014</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний с капюшоном, серый</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134381.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/014/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-015</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Зелёный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний, зелёный</Title>
-    <Description>Пуховик мужской, цвет зелёный.
-Модель без капюшона. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134382.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/015/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-016</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный, зимний, с капюшоном</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134388.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/016/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-017</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Коричневый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний с капюшоном, коричневый</Title>
-    <Description>Пуховик мужской, цвет коричневый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134397.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/017/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-018</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской серый с капюшоном, зимний</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134398.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/018/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-019</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской с капюшоном, серый</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134423.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/019/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-020</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской серый, зимний, с капюшоном</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134402.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/020/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-021</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Бежевый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний бежевый с капюшоном</Title>
-    <Description>Пуховик мужской, цвет бежевый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134429.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/021/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-022</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний чёрный с капюшоном</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134424.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/022/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-023</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний чёрный, длина средняя</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133946.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/023/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-024</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный средняя, зимний</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133958.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/024/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-025</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний чёрный, длина короткая</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133987.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/025/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-026</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Коричневый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской коричневый с капюшоном, зимний</Title>
-    <Description>Пуховик мужской, цвет коричневый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134176.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/026/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-027</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный, р. 46-50-52-54-56</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134170.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/027/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-028</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний серый с капюшоном</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134381.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/028/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-029</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный короткая, зимний</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134182.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/029/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-030</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Синий</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний с капюшоном, тёмно-синий</Title>
-    <Description>Пуховик мужской, цвет тёмно-синий.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134348.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/030/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-031</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Синий</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской тёмно-синий с капюшоном, зимний</Title>
-    <Description>Пуховик мужской, цвет тёмно-синий.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134353.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/031/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-032</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний серый, длина короткая</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134357.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/032/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-033</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный, р. 46-50-52-54</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133954.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/033/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-034</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской зимний чёрный, р. 46-50-52-54-56</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133966.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/034/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-035</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Пуховик мужской чёрный, зимний</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134308.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/035/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-036</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4650</Price>
-    <Title>Пуховик мужской зимний чёрный</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133940.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/036/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-037</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4650</Price>
-    <Title>Пуховик мужской зимний чёрный, р. 46-50-52-54</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133978.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/037/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-038</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4650</Price>
-    <Title>Пуховик мужской чёрный 46-50-52-54</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134323.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/038/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-039</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4790</Price>
-    <Title>Пуховик мужской зимний чёрный 46-50-52-54</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133972.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/039/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-040</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4790</Price>
-    <Title>Пуховик мужской чёрный 46-50-52-54-56</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134362.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/040/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-041</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4960</Price>
-    <Title>Пуховик мужской чёрный, р. 50-52-54-56</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 50-52-54-56 (M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134375.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/041/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-042</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>5410</Price>
-    <Title>Пуховик мужской зимний чёрный 46-50-52-54-56</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133852.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/042/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-043</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>5410</Price>
-    <Title>Пуховик мужской чёрный, зимний, без капюшона</Title>
-    <Description>Пуховик мужской, цвет чёрный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134315.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/043/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-044</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Зимние куртки и пуховики</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Зимние куртки и пуховики</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>7130</Price>
-    <Title>Пуховик мужской зимний серый, длина средняя</Title>
-    <Description>Пуховик мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 133832.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/044/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-045</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Свитер</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Свитер мужской тёплый, чёрный</Title>
-    <Description>Свитер мужской, цвет чёрный.
-Модель без капюшона. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134200.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/045/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-046</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Толстовка</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Толстовка мужской тёплая с капюшоном, чёрный</Title>
-    <Description>Толстовка мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134210.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/046/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-047</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Свитер</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Свитер мужской тёплый с капюшоном, чёрный</Title>
-    <Description>Свитер мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134211.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/047/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-048</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Толстовка</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Толстовка мужской чёрный с капюшоном, тёплая</Title>
-    <Description>Толстовка мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54 (S-M-L-XL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134330.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/048/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-049</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Демисезонные куртки</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Демисезонные куртки</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>50 (L)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Куртка мужской демисезонная с капюшоном, чёрный</Title>
-    <Description>Куртка мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-48-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134361.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/049/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-050</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Свитер</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Синий</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Свитер мужской тёплый, синий</Title>
-    <Description>Свитер мужской, цвет синий.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134599.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/050/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-051</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской демисезонный с капюшоном, чёрный</Title>
-    <Description>Бомбер мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134205.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/051/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-052</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской чёрный с капюшоном, демисезонный</Title>
-    <Description>Бомбер мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134223.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/052/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-053</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Толстовка</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Толстовка мужской с капюшоном, чёрный</Title>
-    <Description>Толстовка мужской, цвет чёрный.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134240.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/053/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-054</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской демисезонный с капюшоном, серый</Title>
-    <Description>Бомбер мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134233.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/054/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-055</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской с капюшоном, чёрный</Title>
-    <Description>Бомбер мужской, цвет чёрный.
-Капюшон с регулировкой. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134255.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/055/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-056</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Серый</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской серый с капюшоном, демисезонный</Title>
-    <Description>Бомбер мужской, цвет серый.
-Капюшон с регулировкой. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134250.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/056/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-057</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Свитер</GoodsSubType>
-    <Apparel>Кофты и футболки</Apparel>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Красный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Зима</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Свитер мужской тёплый, красный</Title>
-    <Description>Свитер мужской, цвет красный.
-Модель без капюшона. Длина средняя — ниже бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134589.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/057/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
-  </Ad>
-  <Ad>
-    <Id>muzh-058</Id>
-    <Category>Одежда, обувь, аксессуары</Category>
-    <GoodsType>Мужская одежда</GoodsType>
-    <GoodsSubType>Бомберы</GoodsSubType>
-    <Apparel>Верхняя одежда</Apparel>
-    <ApparelType>Бомберы</ApparelType>
-    <AdType>Товар от производителя</AdType>
-    <Size>52 (L/XL)</Size>
-    <Color>Чёрный</Color>
-    <Brand>Без бренда</Brand>
-    <Condition>Новое с биркой</Condition>
-    <Season>Демисезон</Season>
-    <Availability>В наличии</Availability>
-    <Price>4540</Price>
-    <Title>Бомбер мужской демисезонный, чёрный</Title>
-    <Description>Бомбер мужской, цвет чёрный.
-Модель без капюшона. Длина короткая — до середины бедра.
-Застёжка-молния, боковые карманы, аккуратные швы и ровная строчка.
-Размеры: 46-50-52-54-56 (S-M-L-XL-XXL).
-Примерка при получении. Доставка по Москве и Московской области, самовывоз — Балашиха.
-Артикул: 134559.</Description>
-    <Images>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/01.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/02.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/03.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/04.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/05.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/06.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/07.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/08.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/09.jpg"/>
-      <Image url="https://biznes198011-ops.github.io/avito-dashboard/feed/clothes/058/10.jpg"/>
-    </Images>
-    <Address>Московская обл., Балашиха, мкр-н Железнодорожный</Address>
+    <ContactPhone>79031314044</ContactPhone>
+    <ManagerName>Gevorg</ManagerName>
+    <TypesOfWindows>
+      <Option>Пластиковые</Option>
+      <Option>Алюминиевые</Option>
+    </TypesOfWindows>
+    <ObjectForWork>
+      <Option>Квартира</Option>
+      <Option>Частный дом</Option>
+    </ObjectForWork>
+    <WindowConstruction>
+      <Option>Глухое</Option>
+      <Option>Поворотное, поворотно-откидное</Option>
+      <Option>Арочное</Option>
+      <Option>Французское, панорамное</Option>
+    </WindowConstruction>
   </Ad>
 </Ads>
