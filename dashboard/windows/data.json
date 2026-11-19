@@ -1,0 +1,1696 @@
+{
+ "built": "19.11.2026 11:47",
+ "kpi": {
+  "ads_feed": 11,
+  "ads_live": 13,
+  "views_total": 1826,
+  "views_feed": 723,
+  "views_legacy": 1103,
+  "chats_total": 75,
+  "chats_feed": 18,
+  "chats_legacy": 57,
+  "zero_chat": 5,
+  "in_search": 6,
+  "zero_pos": 5,
+  "cr_total": 4.11
+ },
+ "rows": [
+  {
+   "feed_id": "hermes-okna-na-zakaz",
+   "live_id": "8439484590",
+   "live": true,
+   "title": "Пластиковые окна ПВХ на заказ от производителя",
+   "title_old": "Окна ПВХ от производителя | от 3500, Балашиха",
+   "desc": 1572,
+   "desc_old": 1035,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_pvh_ot_proizvoditelya_balashiha_8439484590",
+   "views": 17,
+   "chats": 1,
+   "cr": 5.88,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_6.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/okna_7.jpg"
+   ],
+   "pos": [
+    [
+     "окна пвх от производителя",
+     43
+    ]
+   ],
+   "meds": [
+    [
+     "пластиковые окна",
+     4825
+    ],
+    [
+     "окна на заказ",
+     3335
+    ]
+   ],
+   "market_delta": -27
+  },
+  {
+   "feed_id": "hermes-osteklenie-balkona",
+   "live_id": "8438755784",
+   "live": true,
+   "title": "Остекление балконов и лоджий под ключ, Балашиха",
+   "title_old": "Остекление балконов и лоджий ПВХ | от 3500",
+   "desc": 1537,
+   "desc_old": 1010,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/osteklenie_balkonov_i_lodzhiy_pvh_8438755784",
+   "views": 10,
+   "chats": 0,
+   "cr": 0.0,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_6.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/balkon_7.jpg"
+   ],
+   "pos": [
+    [
+     "остекление балкона",
+     9
+    ]
+   ],
+   "meds": [
+    [
+     "остекление балкона",
+     3459
+    ],
+    [
+     "остекление балкона под ключ",
+     2000
+    ]
+   ],
+   "market_delta": 1
+  },
+  {
+   "feed_id": "hermes-balkonnyi-blok",
+   "live_id": "8391008962",
+   "live": true,
+   "title": "Балконный блок ПВХ с дверью, Балашиха",
+   "title_old": "Балконный блок ПВХ с дверью | От производителя",
+   "desc": 1438,
+   "desc_old": 653,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/balkonnyy_blok_pvh_s_dveryu_ot_proizvoditelya_8391008962",
+   "views": 241,
+   "chats": 1,
+   "cr": 0.41,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_6.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/blok_7.jpg"
+   ],
+   "pos": [
+    [
+     "балконный блок",
+     36
+    ]
+   ],
+   "meds": [
+    [
+     "балконный блок",
+     4690
+    ]
+   ],
+   "market_delta": -25
+  },
+  {
+   "feed_id": "hermes-okna-dom-dacha",
+   "live_id": "8408657133",
+   "live": true,
+   "title": "Окна для дома и дачи от производителя, Балашиха",
+   "title_old": "Окна для дома и дачи от производителя | от 1800",
+   "desc": 1455,
+   "desc_old": 675,
+   "price": 1800,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_dlya_doma_i_dachi_ot_proizvoditelya_8408657133",
+   "views": 160,
+   "chats": 8,
+   "cr": 5.0,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/dom_6.jpg"
+   ],
+   "pos": [
+    [
+     "окна для дачи",
+     6
+    ]
+   ],
+   "meds": [
+    [
+     "окна для дачи",
+     3440
+    ]
+   ],
+   "market_delta": -48
+  },
+  {
+   "feed_id": "hermes-okna-vitrazh",
+   "live_id": "8439718185",
+   "live": true,
+   "title": "Витражные окна ПВХ и декоративное остекление",
+   "title_old": "Окна с витражным стеклом | Декоративное остекление",
+   "desc": 1438,
+   "desc_old": 1019,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_s_vitrazhnym_steklom_dekorativnoe_osteklenie_8439718185",
+   "views": 27,
+   "chats": 0,
+   "cr": 0.0,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/vitrazh_5.jpg"
+   ],
+   "pos": [],
+   "meds": [
+    [
+     "остекление балкона",
+     3459
+    ]
+   ],
+   "market_delta": 1
+  },
+  {
+   "feed_id": "hermes-okna-panorama",
+   "live_id": "8431137136",
+   "live": true,
+   "title": "Панорамные окна ПВХ, большие проёмы, Балашиха",
+   "title_old": "Панорамные окна ПВХ | Большие проёмы, от 3500",
+   "desc": 1429,
+   "desc_old": 624,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/panoramnye_okna_pvh_bolshie_proemy_8431137136",
+   "views": 27,
+   "chats": 0,
+   "cr": 0.0,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/panorama_5.jpg"
+   ],
+   "pos": [
+    [
+     "панорамные окна",
+     34
+    ]
+   ],
+   "meds": [
+    [
+     "панорамные окна",
+     4500
+    ]
+   ],
+   "market_delta": -22
+  },
+  {
+   "feed_id": "hermes-okna-zheleznodorozhny",
+   "live_id": "8340111750",
+   "live": true,
+   "title": "Пластиковые окна Железнодорожный, замер бесплатно",
+   "title_old": "Окна ПВХ от производителя | Бесплатный замер",
+   "desc": 1438,
+   "desc_old": 725,
+   "price": 1800,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_pvh_ot_proizvoditelya_besplatnyy_zamer_8340111750",
+   "views": 172,
+   "chats": 5,
+   "cr": 2.91,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/zhd_6.jpg"
+   ],
+   "pos": [
+    [
+     "окна пвх от производителя",
+     42
+    ]
+   ],
+   "meds": [
+    [
+     "пластиковые окна балашиха",
+     3221
+    ],
+    [
+     "пластиковые окна",
+     4825
+    ]
+   ],
+   "market_delta": -44
+  },
+  {
+   "feed_id": "hermes-okna-arochnye",
+   "live_id": "8409133927",
+   "live": true,
+   "title": "Арочные окна ПВХ на заказ, нестандартные формы",
+   "title_old": "Арочные окна ПВХ на заказ | Нестандартные формы",
+   "desc": 1402,
+   "desc_old": 598,
+   "price": 3500,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/arochnye_okna_pvh_na_zakaz_nestandartnye_formy_8409133927",
+   "views": 59,
+   "chats": 1,
+   "cr": 1.69,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/arka_6.jpg"
+   ],
+   "pos": [],
+   "meds": [
+    [
+     "окна на заказ",
+     3335
+    ]
+   ],
+   "market_delta": 5
+  },
+  {
+   "feed_id": "hermes-alyuminievye-okna",
+   "live_id": "8545473540",
+   "live": true,
+   "title": "Алюминиевые окна и раздвижные системы, Балашиха",
+   "title_old": "Алюминиевые окна и раздвижные системы | от 3000",
+   "desc": 1425,
+   "desc_old": 953,
+   "price": 3000,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/alyuminievye_okna_i_razdvizhnye_sistemy_8545473540",
+   "views": 3,
+   "chats": 0,
+   "cr": 0.0,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/alu_3.jpg"
+   ],
+   "pos": [],
+   "meds": [
+    [
+     "алюминиевые окна",
+     4860
+    ]
+   ],
+   "market_delta": -38
+  },
+  {
+   "feed_id": "hermes-remont-okon",
+   "live_id": "8453018260",
+   "live": true,
+   "title": "Ремонт окон ПВХ: регулировка и стеклопакеты",
+   "title_old": "Ремонт окон ПВХ | Замена фурнитуры и регулировка",
+   "desc": 1438,
+   "desc_old": 747,
+   "price": null,
+   "status": "active",
+   "url": "https://www.avito.ru/balashiha/predlozheniya_uslug/remont_okon_pvh_zamena_furnitury_i_regulirovka_8453018260",
+   "views": 7,
+   "chats": 2,
+   "cr": 28.57,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/remont_6.jpg"
+   ],
+   "pos": [],
+   "meds": [
+    [
+     "ремонт окон",
+     650
+    ],
+    [
+     "регулировка окон",
+     500
+    ]
+   ],
+   "market_delta": null
+  },
+  {
+   "feed_id": "hermes-ustanovka-okon",
+   "live_id": null,
+   "live": false,
+   "title": "Установка пластиковых окон, монтаж и демонтаж",
+   "title_old": "Установка окон ПВХ | Демонтаж, монтаж, от 2500",
+   "desc": 1469,
+   "desc_old": 687,
+   "price": null,
+   "status": "нет в живых",
+   "url": "",
+   "views": null,
+   "chats": 0,
+   "cr": null,
+   "photos": [
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_1.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_2.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_3.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_4.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_5.jpg",
+    "https://biznes198011-ops.github.io/avito-dashboard/feed/photos/montazh_6.jpg"
+   ],
+   "pos": [],
+   "meds": [
+    [
+     "пластиковые окна",
+     4825
+    ]
+   ],
+   "market_delta": null
+  }
+ ],
+ "legacy": [
+  {
+   "id": "7910500673",
+   "title": "Готовые окна пвх со склада Забери сегодня",
+   "price": 2500,
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/gotovye_okna_pvh_so_sklada_zaberi_segodnya_7910500673",
+   "views": 585,
+   "chats": 36,
+   "desc": 1505,
+   "photos": [
+    "https://60.img.avito.st/image/1/1.zKeaz7a4YE6seOJDjvTzs9JuYkgkbuJYrGNiTCpmaEQs.XHFp32aY1gfuXH2qKuNwI95g6MEgjddVKmrpUdWSQfs",
+    "https://20.img.avito.st/image/1/1.mYqN2La4L2O7b7dus9btwpl4N2Uzebd1u3Q3YT1xPWk7.oE6NcAU6WXIpO0IGn8khiRfw4TgUFaMt5cE7A3i4Yos?cqp=2.-N4CgYw0th5bkNXazZY5CAkkuEie9RLDP0n3NqrepjAWaX8JENSRv9Ww5twj-U7712qtNCqwgoojp3WYcw==",
+    "https://80.img.avito.st/image/1/1.2eI92La4dQsLb_cGA9eJ93V5dw2DefcdC3R3CY1xfQGL.8NBg1R_t4-xcY-37k8pDmgYcv6ta1J3xHe8dQ0D5BzQ"
+   ]
+  },
+  {
+   "id": "7910256222",
+   "title": "Окна пвх алюмина новые не б/у От производителя",
+   "price": 3500,
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_pvh_alyumina_novye_ne_bu_ot_proizvoditelya_7910256222",
+   "views": 373,
+   "chats": 12,
+   "desc": 1268,
+   "photos": [
+    "https://70.img.avito.st/image/1/1.4mW5o7a4ToyPFMyB8bSCT_ICTIoHAsyajw9MjgkKRoYP.kTYlhrCuhZ0RF2tYKR8b771Z6o_ozojl8gK9Tg5eiw0",
+    "https://c90.img.avito.st/image/1/1.ab_xXra431bH6UdbrzdKseT-x1BP_0dAx_LHVEH3zVxH.hpA97piPUGn1u3s9qjoEyJeCRuhB4llyuuWJYflgX-4",
+    "https://c90.img.avito.st/image/1/1.KpFHlra4hnhxIQR1H_5wgA83hH75NwRucTqEevc_jnLx.h09kYSkLo6Gn2XD11WefXQ3TlaUk4MYMkSMRNM8ckic"
+   ]
+  },
+  {
+   "id": "7909950702",
+   "title": "Окна Rehau от завода Гарантия",
+   "price": 1800,
+   "url": "https://www.avito.ru/balashiha/remont_i_stroitelstvo/okna_rehau_ot_zavoda_garantiya_7909950702",
+   "views": 145,
+   "chats": 9,
+   "desc": 2017,
+   "photos": [
+    "https://b00.img.avito.st/image/1/1.UjwHkba4_tUxJnzYL6heKk8w_NO5MHzDMT3817c49t-x.WVSEv-d-S2el77gNbp4NlPWEW5tyqkNwrJfEWk7bDRQ?cqp=2.YN7dHnrK-mhyvtTBpyubvaFoUVdTM3W7BFy5YaeXzZ_Q2glMrBb_s4irqaJhHlfJPgeDGUqVXQ==",
+    "https://60.img.avito.st/image/1/1.6efaura4Xw7sDccDhKXPzvMaRwhkG8cY7BZHDGoTTQRs.yuFZD2XCBZr-BJHqltNejI3krJiFGyrvDB4OP1irhFg",
+    "https://c80.img.avito.st/image/1/1.MVk_Eba4nbAJph-9UVF9S3ewn7aBsB-mCb2fso-4lbqJ.Y39ukdcndd44J9Tc_vsZz80EbACFKCimEIFMYtSM9M8"
+   ]
+  }
+ ],
+ "market": {
+  "окна пвх": {
+   "query": "окна пвх",
+   "shown": 50,
+   "rivals": 50,
+   "median": 4595,
+   "p25": 3017,
+   "q75": 4980,
+   "min": 500,
+   "max": 9500,
+   "top_words": [
+    [
+     "окна",
+     50
+    ],
+    [
+     "пластиковые",
+     38
+    ],
+    [
+     "пвх",
+     13
+    ],
+    [
+     "завода",
+     8
+    ],
+    [
+     "производителя",
+     8
+    ],
+    [
+     "без",
+     7
+    ],
+    [
+     "посредников",
+     6
+    ],
+    [
+     "двери",
+     5
+    ],
+    [
+     "заказ",
+     5
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "код",
+     5
+    ],
+    [
+     "новые",
+     4
+    ],
+    [
+     "установкой",
+     4
+    ],
+    [
+     "ключ",
+     4
+    ],
+    [
+     "расчёт",
+     3
+    ]
+   ]
+  },
+  "пластиковые окна": {
+   "query": "пластиковые окна",
+   "shown": 50,
+   "rivals": 50,
+   "median": 4825,
+   "p25": 3052,
+   "q75": 4990,
+   "min": 500,
+   "max": 9500,
+   "top_words": [
+    [
+     "окна",
+     50
+    ],
+    [
+     "пластиковые",
+     39
+    ],
+    [
+     "пвх",
+     14
+    ],
+    [
+     "производителя",
+     9
+    ],
+    [
+     "завода",
+     8
+    ],
+    [
+     "без",
+     8
+    ],
+    [
+     "посредников",
+     7
+    ],
+    [
+     "двери",
+     5
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "код",
+     5
+    ],
+    [
+     "новые",
+     4
+    ],
+    [
+     "установкой",
+     4
+    ],
+    [
+     "заказ",
+     4
+    ],
+    [
+     "ключ",
+     4
+    ],
+    [
+     "расчёт",
+     3
+    ]
+   ]
+  },
+  "окна пвх от производителя": {
+   "query": "окна пвх от производителя",
+   "shown": 50,
+   "rivals": 48,
+   "median": 3666,
+   "p25": 2962,
+   "q75": 4950,
+   "min": 500,
+   "max": 7680,
+   "top_words": [
+    [
+     "окна",
+     49
+    ],
+    [
+     "пластиковые",
+     38
+    ],
+    [
+     "пвх",
+     15
+    ],
+    [
+     "производителя",
+     11
+    ],
+    [
+     "завода",
+     7
+    ],
+    [
+     "без",
+     7
+    ],
+    [
+     "посредников",
+     6
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "код",
+     5
+    ],
+    [
+     "двери",
+     4
+    ],
+    [
+     "заказ",
+     4
+    ],
+    [
+     "производство",
+     4
+    ],
+    [
+     "ключ",
+     4
+    ],
+    [
+     "собственное",
+     3
+    ],
+    [
+     "расчёт",
+     3
+    ]
+   ]
+  },
+  "остекление балкона": {
+   "query": "остекление балкона",
+   "shown": 50,
+   "rivals": 49,
+   "median": 3459,
+   "p25": 2233,
+   "q75": 4960,
+   "min": 500,
+   "max": 19500,
+   "top_words": [
+    [
+     "окна",
+     34
+    ],
+    [
+     "пластиковые",
+     25
+    ],
+    [
+     "остекление",
+     15
+    ],
+    [
+     "балконов",
+     8
+    ],
+    [
+     "под",
+     8
+    ],
+    [
+     "ключ",
+     8
+    ],
+    [
+     "пвх",
+     6
+    ],
+    [
+     "без",
+     6
+    ],
+    [
+     "балкон",
+     5
+    ],
+    [
+     "производителя",
+     5
+    ],
+    [
+     "установкой",
+     5
+    ],
+    [
+     "завода",
+     4
+    ],
+    [
+     "посредников",
+     4
+    ],
+    [
+     "двери",
+     3
+    ],
+    [
+     "балкона",
+     3
+    ]
+   ]
+  },
+  "остекление лоджии": {
+   "query": "остекление лоджии",
+   "shown": 50,
+   "rivals": 50,
+   "median": 1800,
+   "p25": 1000,
+   "q75": 5000,
+   "min": 350,
+   "max": 80000,
+   "top_words": [
+    [
+     "балконов",
+     34
+    ],
+    [
+     "остекление",
+     32
+    ],
+    [
+     "лоджий",
+     27
+    ],
+    [
+     "под",
+     13
+    ],
+    [
+     "ремонт",
+     13
+    ],
+    [
+     "отделка",
+     13
+    ],
+    [
+     "окон",
+     12
+    ],
+    [
+     "ключ",
+     11
+    ],
+    [
+     "окна",
+     10
+    ],
+    [
+     "пвх",
+     6
+    ],
+    [
+     "утепление",
+     6
+    ],
+    [
+     "регулировка",
+     5
+    ],
+    [
+     "пластиковые",
+     3
+    ],
+    [
+     "пластиковых",
+     3
+    ],
+    [
+     "дверей",
+     3
+    ]
+   ]
+  },
+  "ремонт окон": {
+   "query": "ремонт окон",
+   "shown": 50,
+   "rivals": 50,
+   "median": 650,
+   "p25": 500,
+   "q75": 1500,
+   "min": 350,
+   "max": 70000,
+   "top_words": [
+    [
+     "окон",
+     38
+    ],
+    [
+     "ремонт",
+     34
+    ],
+    [
+     "пластиковых",
+     11
+    ],
+    [
+     "регулировка",
+     11
+    ],
+    [
+     "остекление",
+     8
+    ],
+    [
+     "замена",
+     8
+    ],
+    [
+     "окна",
+     8
+    ],
+    [
+     "балконов",
+     6
+    ],
+    [
+     "лоджий",
+     6
+    ],
+    [
+     "дверей",
+     6
+    ],
+    [
+     "пвх",
+     5
+    ],
+    [
+     "сетки",
+     5
+    ],
+    [
+     "установка",
+     4
+    ],
+    [
+     "уплотнителя",
+     4
+    ],
+    [
+     "фурнитуры",
+     4
+    ]
+   ]
+  },
+  "регулировка окон": {
+   "query": "регулировка окон",
+   "shown": 50,
+   "rivals": 50,
+   "median": 500,
+   "p25": 419,
+   "q75": 1000,
+   "min": 150,
+   "max": 70000,
+   "top_words": [
+    [
+     "окон",
+     44
+    ],
+    [
+     "ремонт",
+     33
+    ],
+    [
+     "регулировка",
+     17
+    ],
+    [
+     "пластиковых",
+     12
+    ],
+    [
+     "замена",
+     11
+    ],
+    [
+     "окна",
+     7
+    ],
+    [
+     "пвх",
+     6
+    ],
+    [
+     "сетки",
+     6
+    ],
+    [
+     "уплотнителя",
+     6
+    ],
+    [
+     "дверей",
+     6
+    ],
+    [
+     "установка",
+     5
+    ],
+    [
+     "фурнитуры",
+     5
+    ],
+    [
+     "остекление",
+     4
+    ],
+    [
+     "москитные",
+     4
+    ],
+    [
+     "окнах",
+     4
+    ]
+   ]
+  },
+  "замена стеклопакета": {
+   "query": "замена стеклопакета",
+   "shown": 50,
+   "rivals": 50,
+   "median": 2752,
+   "p25": 900,
+   "q75": 3770,
+   "min": 248,
+   "max": 6800,
+   "top_words": [
+    [
+     "окна",
+     28
+    ],
+    [
+     "пвх",
+     14
+    ],
+    [
+     "пластиковые",
+     11
+    ],
+    [
+     "код",
+     11
+    ],
+    [
+     "без",
+     10
+    ],
+    [
+     "стеклопакет",
+     9
+    ],
+    [
+     "изготовление",
+     9
+    ],
+    [
+     "монтажом",
+     8
+    ],
+    [
+     "для",
+     7
+    ],
+    [
+     "рамы",
+     7
+    ],
+    [
+     "стеклопакеты",
+     6
+    ],
+    [
+     "остекление",
+     6
+    ],
+    [
+     "под",
+     6
+    ],
+    [
+     "установка",
+     6
+    ],
+    [
+     "окон",
+     5
+    ]
+   ]
+  },
+  "окна на заказ": {
+   "query": "окна на заказ",
+   "shown": 50,
+   "rivals": 50,
+   "median": 3335,
+   "p25": 2700,
+   "q75": 4940,
+   "min": 300,
+   "max": 8280,
+   "top_words": [
+    [
+     "окна",
+     49
+    ],
+    [
+     "пластиковые",
+     33
+    ],
+    [
+     "пвх",
+     12
+    ],
+    [
+     "заказ",
+     9
+    ],
+    [
+     "производителя",
+     7
+    ],
+    [
+     "завода",
+     7
+    ],
+    [
+     "без",
+     6
+    ],
+    [
+     "посредников",
+     6
+    ],
+    [
+     "мягкие",
+     6
+    ],
+    [
+     "двери",
+     5
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "ключ",
+     4
+    ],
+    [
+     "для",
+     4
+    ],
+    [
+     "производство",
+     4
+    ],
+    [
+     "новые",
+     3
+    ]
+   ]
+  },
+  "панорамные окна": {
+   "query": "панорамные окна",
+   "shown": 50,
+   "rivals": 49,
+   "median": 4500,
+   "p25": 2999,
+   "q75": 8500,
+   "min": 1785,
+   "max": 31450,
+   "top_words": [
+    [
+     "окна",
+     45
+    ],
+    [
+     "пластиковые",
+     22
+    ],
+    [
+     "панорамные",
+     14
+    ],
+    [
+     "пвх",
+     9
+    ],
+    [
+     "завода",
+     8
+    ],
+    [
+     "стеклопакеты",
+     5
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "ключ",
+     5
+    ],
+    [
+     "производителя",
+     5
+    ],
+    [
+     "двери",
+     4
+    ],
+    [
+     "новые",
+     4
+    ],
+    [
+     "заказ",
+     4
+    ],
+    [
+     "установкой",
+     4
+    ],
+    [
+     "без",
+     4
+    ],
+    [
+     "алюминиевые",
+     4
+    ]
+   ]
+  },
+  "алюминиевые окна": {
+   "query": "алюминиевые окна",
+   "shown": 50,
+   "rivals": 49,
+   "median": 4860,
+   "p25": 3000,
+   "q75": 5820,
+   "min": 100,
+   "max": 14000,
+   "top_words": [
+    [
+     "окна",
+     41
+    ],
+    [
+     "пластиковые",
+     23
+    ],
+    [
+     "алюминиевые",
+     14
+    ],
+    [
+     "завода",
+     8
+    ],
+    [
+     "двери",
+     6
+    ],
+    [
+     "производителя",
+     6
+    ],
+    [
+     "без",
+     6
+    ],
+    [
+     "посредников",
+     6
+    ],
+    [
+     "пвх",
+     5
+    ],
+    [
+     "остекление",
+     5
+    ],
+    [
+     "сиал",
+     4
+    ],
+    [
+     "заказ",
+     3
+    ],
+    [
+     "производства",
+     3
+    ],
+    [
+     "окно",
+     3
+    ],
+    [
+     "алютех",
+     2
+    ]
+   ]
+  },
+  "окна для дачи": {
+   "query": "окна для дачи",
+   "shown": 48,
+   "rivals": 47,
+   "median": 3440,
+   "p25": 2500,
+   "q75": 4910,
+   "min": 100,
+   "max": 105000,
+   "top_words": [
+    [
+     "окна",
+     37
+    ],
+    [
+     "пластиковые",
+     20
+    ],
+    [
+     "для",
+     11
+    ],
+    [
+     "пвх",
+     9
+    ],
+    [
+     "дачи",
+     7
+    ],
+    [
+     "завода",
+     7
+    ],
+    [
+     "код",
+     7
+    ],
+    [
+     "мягкие",
+     6
+    ],
+    [
+     "без",
+     5
+    ],
+    [
+     "производителя",
+     5
+    ],
+    [
+     "деревянные",
+     4
+    ],
+    [
+     "монтажом",
+     4
+    ],
+    [
+     "под",
+     4
+    ],
+    [
+     "окно",
+     4
+    ],
+    [
+     "посредников",
+     3
+    ]
+   ]
+  },
+  "пластиковые окна балашиха": {
+   "query": "пластиковые окна балашиха",
+   "shown": 16,
+   "rivals": 16,
+   "median": 3221,
+   "p25": 2511,
+   "q75": 5500,
+   "min": 500,
+   "max": 7680,
+   "top_words": [
+    [
+     "окна",
+     15
+    ],
+    [
+     "пластиковые",
+     10
+    ],
+    [
+     "пвх",
+     4
+    ],
+    [
+     "завода",
+     3
+    ],
+    [
+     "двери",
+     2
+    ],
+    [
+     "производителя",
+     2
+    ],
+    [
+     "завод",
+     2
+    ],
+    [
+     "новые",
+     1
+    ],
+    [
+     "пластикове",
+     1
+    ],
+    [
+     "пластиковое",
+     1
+    ],
+    [
+     "окно",
+     1
+    ],
+    [
+     "балашихе",
+     1
+    ],
+    [
+     "брусбокс",
+     1
+    ],
+    [
+     "новотекс",
+     1
+    ],
+    [
+     "балашиха",
+     1
+    ]
+   ]
+  },
+  "балконный блок": {
+   "query": "балконный блок",
+   "shown": 47,
+   "rivals": 46,
+   "median": 4690,
+   "p25": 3160,
+   "q75": 7719,
+   "min": 1785,
+   "max": 120000,
+   "top_words": [
+    [
+     "окна",
+     42
+    ],
+    [
+     "пластиковые",
+     26
+    ],
+    [
+     "пвх",
+     16
+    ],
+    [
+     "двери",
+     10
+    ],
+    [
+     "установкой",
+     6
+    ],
+    [
+     "монтажом",
+     6
+    ],
+    [
+     "новые",
+     5
+    ],
+    [
+     "под",
+     5
+    ],
+    [
+     "балкон",
+     4
+    ],
+    [
+     "балконный",
+     4
+    ],
+    [
+     "блок",
+     4
+    ],
+    [
+     "без",
+     3
+    ],
+    [
+     "балконные",
+     3
+    ],
+    [
+     "ключ",
+     3
+    ],
+    [
+     "заказ",
+     3
+    ]
+   ]
+  },
+  "остекление балкона под ключ": {
+   "query": "остекление балкона под ключ",
+   "shown": 50,
+   "rivals": 50,
+   "median": 2000,
+   "p25": 1000,
+   "q75": 5000,
+   "min": 400,
+   "max": 80000,
+   "top_words": [
+    [
+     "балконов",
+     36
+    ],
+    [
+     "остекление",
+     32
+    ],
+    [
+     "лоджий",
+     27
+    ],
+    [
+     "отделка",
+     14
+    ],
+    [
+     "под",
+     13
+    ],
+    [
+     "ремонт",
+     13
+    ],
+    [
+     "ключ",
+     11
+    ],
+    [
+     "окон",
+     10
+    ],
+    [
+     "окна",
+     8
+    ],
+    [
+     "утепление",
+     8
+    ],
+    [
+     "пвх",
+     6
+    ],
+    [
+     "регулировка",
+     4
+    ],
+    [
+     "балкона",
+     3
+    ],
+    [
+     "пластиковых",
+     3
+    ],
+    [
+     "дверей",
+     3
+    ]
+   ]
+  }
+ },
+ "demand": [
+  {
+   "q": "пластиковые окна",
+   "exact": 20457,
+   "broad": 1731429
+  },
+  {
+   "q": "установка пластиковых окон",
+   "exact": 13128,
+   "broad": 152106
+  },
+  {
+   "q": "панорамные окна",
+   "exact": 4341,
+   "broad": 81839
+  },
+  {
+   "q": "алюминиевые окна",
+   "exact": 3588,
+   "broad": 75580
+  },
+  {
+   "q": "окна пвх",
+   "exact": 3487,
+   "broad": 188589
+  },
+  {
+   "q": "ремонт окон",
+   "exact": 2482,
+   "broad": 104023
+  },
+  {
+   "q": "остекление балкона",
+   "exact": 2466,
+   "broad": 71671
+  },
+  {
+   "q": "остекление балконов",
+   "exact": 2266,
+   "broad": 71671
+  },
+  {
+   "q": "витражные окна",
+   "exact": 1971,
+   "broad": 15699
+  },
+  {
+   "q": "балконный блок",
+   "exact": 1460,
+   "broad": 23436
+  },
+  {
+   "q": "регулировка окон",
+   "exact": 969,
+   "broad": 53030
+  },
+  {
+   "q": "окна rehau",
+   "exact": 905,
+   "broad": 9230
+  },
+  {
+   "q": "раздвижные окна",
+   "exact": 900,
+   "broad": 50382
+  },
+  {
+   "q": "окна veka",
+   "exact": 831,
+   "broad": 7957
+  },
+  {
+   "q": "замена стеклопакета",
+   "exact": 727,
+   "broad": 15865
+  },
+  {
+   "q": "окна на заказ",
+   "exact": 386,
+   "broad": 18175
+  },
+  {
+   "q": "остекление балкона под ключ",
+   "exact": 264,
+   "broad": 2670
+  },
+  {
+   "q": "остекление лоджии",
+   "exact": 259,
+   "broad": 15979
+  },
+  {
+   "q": "энергосберегающие окна",
+   "exact": 256,
+   "broad": 2848
+  },
+  {
+   "q": "окна kbe",
+   "exact": 197,
+   "broad": 2859
+  },
+  {
+   "q": "арочные окна",
+   "exact": 194,
+   "broad": 5855
+  },
+  {
+   "q": "пластиковые окна балашиха",
+   "exact": 172,
+   "broad": 1151
+  },
+  {
+   "q": "монтаж окон пвх",
+   "exact": 170,
+   "broad": 5936
+  },
+  {
+   "q": "ремонт окон пвх",
+   "exact": 155,
+   "broad": 2379
+  }
+ ],
+ "positions": {
+  "8340111750": [
+   [
+    "окна пвх от производителя",
+    42
+   ]
+  ],
+  "8439484590": [
+   [
+    "окна пвх от производителя",
+    43
+   ]
+  ],
+  "8438755784": [
+   [
+    "остекление балкона",
+    9
+   ]
+  ],
+  "8431137136": [
+   [
+    "панорамные окна",
+    34
+   ]
+  ],
+  "7910256222": [
+   [
+    "алюминиевые окна",
+    48
+   ]
+  ],
+  "8408657133": [
+   [
+    "окна для дачи",
+    6
+   ]
+  ],
+  "8391008962": [
+   [
+    "балконный блок",
+    36
+   ]
+  ]
+ }
+}
